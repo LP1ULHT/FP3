@@ -1,6 +1,6 @@
 **UNIVERSIDADE LUSÓFONA DE HUMANIDADES E TECNOLOGIAS**
 
-*Linguagens de Programação I - 2019/2020*
+*Linguagens de Programação I - 2020/2021*
 
 # Ficha de Exercícios - 3
 
