@@ -21,7 +21,7 @@ O preço de cada bilhete deve ser calculado usando a seguinte tabela:
    | Idade | Preço |
    | ----- | ----- |
    | 0-16  |  10€  |
-   | 16-65 |  17€  |
+   | 17-64 |  17€  |
    | 65    |  10€  |
 
 
