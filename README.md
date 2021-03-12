@@ -37,17 +37,21 @@ Segue-se um exemplo de uma sessão de uso do programa (à frente do símbolo > a
    Preço a pagar: = 17
    ```
 
-2. Implemente um programa que mostre um menu com 4 opções, cada uma etiquetada com uma letra. O programa deve então usar um switch para selecionar uma ação simples baseada na seleção do utilizador. O seu output deve ser semelhante ao seguinte:
-Quando o utilizador inserir uma opção inválida deverá ser mostrado novamente o menu. O menu deverá ter uma opção para a saída do programa;
-
+2. Implemente um programa que mostre um menu com 5 opções, cada uma etiquetada com uma letra. O programa deve então usar um switch para selecionar uma ação simples baseada na seleção do utilizador. O seu output deve ser semelhante ao seguinte:
    ```bash
-   Por favor insira uma das seguintes opções: 
-   p) piano		v)violino 
-   t) trompete  	c) contrabaixo
+   Por favor insira uma das seguintes opcoes: 
+   p) piano
+   v) violino 
+   t) trompete
+   c) contrabaixo
    s) sair
    > p
    O pianista toca piano!
    ```
+Caso o utilizador introduza uma opção inválida, o programa deverá mostrar a mensagem ```Opcao invalida```.
+Numa primeira versão, o programa termina depois de apresentar a resposta. Posteriormente, altere o programa de forma, a após o utilizador inserir uma opção,  seja mostrado novamente o menu. O menu deverá ter uma opção para a saída do programa;
+
+   
 
 3.	Um funcionário irá receber um aumento de acordo com o seu plano de trabalho, de acordo com a tabela abaixo: 
 
