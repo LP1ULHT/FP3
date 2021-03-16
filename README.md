@@ -8,7 +8,7 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 
 - O código apresentado deve ser bem indentado. 
 - O código deve compilar sem erros ou *warnings* utilizando o *gcc* com as seguintes flags:
-- `gcc -Wall -Wextra -Wpedantic -std=c99 -g exercicio1.c -o exercicio1`
+- `gcc -Wall -Wextra -Wpedantic -ansi -g exercicio1.c -o exercicio1`
 - Tenha em atenção os nomes dados das variáveis, para que sejam indicadores daquilo que as mesmas vão conter.
 - Evite o uso de constantes mágicas. 
 - Evite duplicação de código. 
