@@ -15,7 +15,7 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 - Considere a implementação de funções para melhorar a legibilidade, evitar a duplicação e criar soluções mais genéricas.
 
 
-1.	(ciclos) Implemente um programa que calcule o preço a pagar por uma pessoa pela entrada no ZOO de Lisboa, com base na sua idade.
+1.	Implemente um programa que calcule o preço a pagar por uma pessoa pela entrada no ZOO de Lisboa, com base na sua idade.
 O preço de cada bilhete deve ser calculado usando a seguinte tabela:
 
    | Idade | Preço |
@@ -63,7 +63,7 @@ Numa primeira versão, o programa termina depois de apresentar a resposta. Poste
 
 Faça um programa que leia o plano de trabalho e o salário atual de um funcionário e calcula e imprime o seu novo salário. Use o comando switch.
 
-4.	(ciclos) O menu de um snack-bar é o seguinte: 
+4.	O menu de um snack-bar é o seguinte: 
 
    | Especificação | Código | Preço |
    | ------------- | ------ | ----- |
@@ -103,12 +103,12 @@ Elabore um programa que leia o peso e a altura de um adulto e mostre sua condiç
    | iii.	Entre 25 e 30 | Acima do peso | 
    | iv.	Acima de 30 | obeso |
 
-13. (ciclos) Elabore um programa que apresente o total da soma obtida dos cem primeiros números inteiros.
+13. Elabore um programa que apresente o total da soma obtida dos cem primeiros números inteiros.
 
-14.	(ciclos) Elabore um programa que efetue a leitura sucessiva de valores numéricos e apresente no final o total do somatório, a média e o total de valores lidos. O programa deve fazer as leituras dos valores enquanto o utilizador estiver a fornecer valores positivos. Ou seja, o programa deve parar quando o utilizador fornecer um valor negativo
+14. Elabore um programa que efetue a leitura sucessiva de valores numéricos e apresente no final o total do somatório, a média e o total de valores lidos. O programa deve fazer as leituras dos valores enquanto o utilizador estiver a fornecer valores positivos. Ou seja, o programa deve parar quando o utilizador fornecer um valor negativo
 
 
-15.	(ciclos) Elabore um programa que solicite a idade de várias pessoas e imprima: 
+15. Elabore um programa que solicite a idade de várias pessoas e imprima: 
    - Total de pessoas com menos de 21 anos. 
    - Total de pessoas com mais de 50 anos. 
    - O programa termina quando idade for =-99.
