@@ -112,6 +112,6 @@ Elabore um programa que leia o peso e a altura de um adulto e mostre sua condiç
    - Total de pessoas com mais de 50 anos. 
    - O programa termina quando idade for =-99.
 
-16. [\*] Elabore um programa que solicita um número <n> do tipo unsigned int e em seguida escreve a sequência do jogo buzz. Nesta sequência os números acabados em 7 ou multiplos de 7, ou números com dígitos iguais 11, 22, 33 etc,  são substituidos pela palavra buzz enquanto que os restantes números são mostrados na consola. Um número por linha.
+16. [\*] Elabore um programa que solicita um número <n> do tipo unsigned int e em seguida escreve a sequência do jogo buzz. Nesta sequência os números acabados em 7 ou multiplos de 7, ou números com dígitos iguais 11, 22, 33, 333, 55555, 77777 etc,  são substituidos pela palavra buzz enquanto que os restantes números são mostrados na consola. Um número por linha.
 
 
