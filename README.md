@@ -107,10 +107,11 @@ Elabore um programa que leia o peso e a altura de um adulto e mostre sua condiç
 
 14. [\*]	Elabore um programa que efetue a leitura sucessiva de valores numéricos e apresente no final o total do somatório, a média e o total de valores lidos. O programa deve fazer as leituras dos valores enquanto o utilizador estiver a fornecer valores positivos. Ou seja, o programa deve parar quando o utilizador fornecer um valor negativo
 
-
 15. [\*]	Elabore um programa que solicite a idade de várias pessoas e imprima: 
    - Total de pessoas com menos de 21 anos. 
    - Total de pessoas com mais de 50 anos. 
    - O programa termina quando idade for =-99.
+
+16. [\*] Elabore um programa que solicita um número <n> do tipo unsigned int e em seguida escreve a sequência do jogo buzz. Nesta sequência os números acabados em 7 ou multiplos de 7 são substituidos pela palavra buzz enquanto que os restantes números são mostrados na consola. Um número por linha.
 
 
