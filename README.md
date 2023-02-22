@@ -14,8 +14,7 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 - Evite o uso de constantes mágicas. 
 - Evite duplicação de código. 
 - Considere a implementação de funções para melhorar a legibilidade, evitar a duplicação e criar soluções mais genéricas.
-
----
+>
 
 1. Escreva um programa que declara um número real de dupla precisão e o inicializa com a seguinte expressão:
 ```C
