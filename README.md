@@ -4,7 +4,7 @@
 
 # Ficha de Exercícios 3 - Estruturas de controlo
 
-> blockquote
+>
 Na resolução destes exercícios deve ser utilizada a Linguagem de Programação C. Para além da correta implementação dos requisitos, tenha em conta os seguintes aspetos:
 
 - O código apresentado deve ser bem indentado. 
