@@ -4,9 +4,7 @@
 
 # Ficha de Exercícios 3 - Estruturas de controlo
 
->
-Na resolução destes exercícios deve ser utilizada a Linguagem de Programação C. Para além da correta implementação dos requisitos, tenha em conta os seguintes aspetos:
-
+> Na resolução destes exercícios deve ser utilizada a Linguagem de Programação C. Para além da correta implementação dos requisitos, tenha em conta os seguintes aspetos:
 - O código apresentado deve ser bem indentado. 
 - O código deve compilar sem erros ou *warnings* utilizando o *gcc* com as seguintes flags:
 - `gcc -Wall -Wextra -Wpedantic -Wvla -g exercicio1.c -o exercicio1`
