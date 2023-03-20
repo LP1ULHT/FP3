@@ -81,7 +81,9 @@ int is_prime(unsigned x)
 }
 ```
 5.1. Faça um programa que leia um número do utilizador e utilize a função `is_prime()` para verificar se o número é primo.
+                     
 5.2. Re-escreva a função `is_prime()` de forma a utilizar um ciclo `while`
+                     
 5.3. Re-escreva a função `is_prime()` de forma a utilizar um ciclo `do while`
 
 
