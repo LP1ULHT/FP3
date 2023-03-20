@@ -67,7 +67,6 @@ Implemente um programa que leia o código do item pedido, a quantidade e calcule
 
 5. Considere a seguinte função que detecta se um número é primo.
 ```
-
 int is_prime(unsigned x)
 {
    unsigned i;
@@ -82,13 +81,14 @@ int is_prime(unsigned x)
    return 1;
 }
 ```
-5.1. Faça um programa que leia um número do utilizador e utilize a função `is_prime()` para verificar se o número é primo.
+   5.1. Faça um programa que leia um número do utilizador e utilize a função `is_prime()` para verificar se o número é primo.
                      
-5.2. Re-escreva a função `is_prime()` de forma a utilizar um ciclo `while`
+   5.2. Re-escreva a função `is_prime()` de forma a utilizar um ciclo `while`
                      
-5.3. Re-escreva a função `is_prime()` de forma a utilizar um ciclo `do while`
-
-
+   5.3. Re-escreva a função `is_prime()` de forma a utilizar um ciclo `do while`
+   
+> De notar que, neste exercício, a condição do ciclo poderia ser alterada de forma a aumentar bastante a performance do algoritmo. Poderiamos testar apenas os números até a raiz quadrada de `x`, porque quaisquer fatores de `x` que sejam maiores que a raiz quadrada de `x` teriam necessariamente um fator correspondente que é menor que a raiz quadrada de `x`. Por exemplo, suponha que desejamos testar se `x = 49` é primo. Se iterarmos de 2 até `x-1`, verificaríamos os divisores 2, 3, 4, 5, 6, 7 e 8. No entanto, podemos parar na raiz quadrada de `x`, que é 7, porque quaisquer fatores de `x` que sejam maiores que 7 teriam necessariamente um fator correspondente que é menor que 7. Neste caso, já teríamos verificado 7 e saberíamos que 49 não é primo.
+> A condição poderia ser então alterada para: `i <= sqrt(x)` ou seja `i * i <= x`.
 
 
 
